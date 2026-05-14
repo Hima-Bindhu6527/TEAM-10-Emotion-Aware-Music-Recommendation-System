@@ -8,11 +8,12 @@ Traditional music recommendation systems mainly depend on listening history, rat
 
 The project compares two independent pipelines:
 
-Pipeline 1 — Vision Transformer + Variational Autoencoder
+Pipeline 1:  Vision Transformer + Variational Autoencoder
 Facial emotion recognition using a pretrained Vision Transformer (ViT)
 Music feature compression using a Variational Autoencoder (VAE)
 Song retrieval using cosine similarity in latent space
 Spotify audio feature dataset with 114,000 tracks
+
 Pipeline 2 — ResNet18 + NLP-Based Recommendation
 Facial emotion recognition using fine-tuned ResNet18
 Multi-frame webcam emotion aggregation
@@ -46,6 +47,7 @@ Pipeline 1 experienced posterior collapse in the VAE latent space.
 Pipeline 2 produced semantically meaningful and consistent music recommendations.
 
 Future Improvements
+
 Larger lyrics corpus and transformer-based NLP models
 User feedback integration for adaptive recommendations
 Improved personalization and scalability
