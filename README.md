@@ -19,6 +19,8 @@ Facial emotion recognition using fine-tuned ResNet18
 Multi-frame webcam emotion aggregation
 Lyrics-based genre classification using TF-IDF and Multinomial Naive Bayes
 Emotion-to-genre mapping for final song recommendation
+
+
 Technologies Used
 Python
 PyTorch
