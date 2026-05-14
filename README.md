@@ -21,7 +21,8 @@ Lyrics-based genre classification using TF-IDF and Multinomial Naive Bayes
 Emotion-to-genre mapping for final song recommendation
 
 
-Technologies Used
+Technologies Used:
+
 Python
 PyTorch
 TensorFlow / Keras
