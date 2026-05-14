@@ -41,10 +41,6 @@ NLP-based lyric and genre analysis
 Comparative analysis of two recommendation architectures
 Results
 
-The project highlights both successful outcomes and practical challenges:
-
-Pipeline 1 experienced posterior collapse in the VAE latent space.
-Pipeline 2 produced semantically meaningful and consistent music recommendations.
 
 Future Improvements
 
