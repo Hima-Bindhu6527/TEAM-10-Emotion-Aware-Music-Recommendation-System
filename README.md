@@ -1,4 +1,4 @@
-Emotion-Aware Music Recommendation System
+Emotion-Aware Music Recommendation System Using Facial Expression Analytics and User Listening Behavior Modeling
 
 An intelligent music recommendation system that detects a user’s emotional state through facial expressions and recommends songs accordingly. This project explores two different deep learning pipelines for real-time emotion-aware music recommendation using computer vision, latent feature modeling, and natural language processing.
 
