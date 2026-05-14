@@ -14,7 +14,7 @@ Music feature compression using a Variational Autoencoder (VAE)
 Song retrieval using cosine similarity in latent space
 Spotify audio feature dataset with 114,000 tracks
 
-Pipeline 2 — ResNet18 + NLP-Based Recommendation
+Pipeline 2  ResNet18 + NLP-Based Recommendation
 Facial emotion recognition using fine-tuned ResNet18
 Multi-frame webcam emotion aggregation
 Lyrics-based genre classification using TF-IDF and Multinomial Naive Bayes
